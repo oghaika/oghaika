@@ -28,11 +28,11 @@
  </div>
  
  <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oghaika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghaika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oghaika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oghaika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&count_private=true"/>
  </div>
 
- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oghaika&theme=rogue&hide_border=true&bg_color=0d1117&line=8A2BE2&color=8A2BE2"/>
+ <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oghaika&theme=rogue&hide_border=true&bg_color=0d1117&line=8A2BE2&color=8A2BE2&custom_title=Contribution%20Graph&area=true"/>
 
  <div align="center">
    <h2>
@@ -42,7 +42,7 @@
  </div>
 
  <div align="center">
-   <a href="https://open.spotify.com/user/SEU_USER_ID">
+   <a href="https://open.spotify.com/user/31ffu5eo7wyfnxjiqixfycn4pl6q">
      <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ffu5eo7wyfnxjiqixfycn4pl6q&count=5" alt="Spotify recently played"  />
    </a>
  </div>
@@ -69,19 +69,19 @@
  <div align="center">
    <h2>
      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
-     Development Metrics
+     GitHub Achievements
    </h2>
  </div>
 
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=oghaika&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=oghaika&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
  </div>
 
  <div align="center" style="margin: 20px 0">
    <img src="https://komarev.com/ghpvc/?username=oghaika&color=8A2BE2&style=for-the-badge&label=Profile+Views"/>
  </div>
 
- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+ <img src="https://github.com/oghaika/oghaika/blob/output/github-contribution-grid-snake-dark.svg" />
  
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=footer"/>
 </div> 
