@@ -11,7 +11,7 @@
 
  <div align="center">
    <h2>
-     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Interface.svg" width="25px" height="25px">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" />
      Tech Stack
    </h2>
  </div>
@@ -22,7 +22,7 @@
 
  <div align="center">
    <h2>
-     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/stats.svg" width="25px" height="25px">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" />
      GitHub Analytics
    </h2>
  </div>
@@ -36,7 +36,7 @@
 
  <div align="center">
    <h2>
-     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/spotifyplaying.svg" width="25px" height="25px">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" />
      Now Playing
    </h2>
  </div>
@@ -49,7 +49,7 @@
 
  <div align="center">
    <h2>
-     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/socialmedias.svg" width="25px" height="25px">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" />
      Socials
    </h2>
  </div>
@@ -68,7 +68,7 @@
 
  <div align="center">
    <h2>
-     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/developer.svg" width="25px" height="25px">
+     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" />
      Development Metrics
    </h2>
  </div>
