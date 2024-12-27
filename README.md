@@ -25,22 +25,16 @@
  <h2>🎵 Now Playing</h2>
  <div align="center" style="margin: 20px 0">
    <a href="https://open.spotify.com/user/31ffu5eo7wyfnxjiqixfycn4pl6q">
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=3WC6pL6jPDaElAv4qcJLTQ&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false" alt="Spotify Playing" width="400"/>
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ffu5eo7wyfnxjiqixfycn4pl6q&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false" alt="Spotify Playing" width="400"/>
    </a>
  </div>
 
  <!-- Spotify Playlist Section -->
  <div align="center" style="background: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0">
    <h3>🎶 My Favorite Playlist ♡</h3>
-   <iframe style="border-radius:12px" 
-           src="https://open.spotify.com/embed/playlist/3WC6pL6jPDaElAv4qcJLTQ?utm_source=generator" 
-           width="100%" 
-           height="352" 
-           frameBorder="0" 
-           allowfullscreen="" 
-           allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-           loading="lazy">
-   </iframe>
+   <a href="https://open.spotify.com/playlist/3WC6pL6jPDaElAv4qcJLTQ" target="_blank">
+     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ffu5eo7wyfnxjiqixfycn4pl6q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Playlist"/>
+   </a>
  </div>
 
  <h2>🌐 Socials</h2>
