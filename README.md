@@ -23,19 +23,10 @@
  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oghaika&theme=rogue&hide_border=true&bg_color=0d1117&line=8A2BE2&color=8A2BE2"/>
 
  <h2>🎵 Now Playing</h2>
- <div align="center" style="margin: 20px 0">
-   <a href="https://open.spotify.com/user/31ffu5eo7wyfnxjiqixfycn4pl6q">
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ffu5eo7wyfnxjiqixfycn4pl6q&cover_image=true&theme=novatorem&bar_color=8A2BE2&bar_color_cover=false" alt="Spotify Playing" width="400"/>
-   </a>
- </div>
-
- <!-- Spotify Playlist Section -->
- <div align="center" style="background: #0d1117; padding: 20px; border-radius: 10px; margin: 20px 0">
-   <h3>🎶 My Favorite Playlist ♡</h3>
-   <a href="https://open.spotify.com/playlist/3WC6pL6jPDaElAv4qcJLTQ" target="_blank">
-     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31ffu5eo7wyfnxjiqixfycn4pl6q&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true" alt="Spotify Playlist"/>
-   </a>
- </div>
+<div align="center">
+  <a href="https://open.spotify.com/user/SEU_USER_ID">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ffu5eo7wyfnxjiqixfycn4pl6q&count=5" alt="Spotify recently played"  />
+  </a>
 
  <h2>🌐 Socials</h2>
  <div align="center" style="margin: 20px 0">
