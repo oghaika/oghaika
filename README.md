@@ -9,12 +9,24 @@
    <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Profile!;Full+Stack+Developer;Always+learning+new+things" />
  </div>
 
- <h2>⚡ Tech Stack</h2>
+ <div align="center">
+   <h2>
+     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/Interface.svg" width="25px" height="25px">
+     Tech Stack
+   </h2>
+ </div>
+ 
  <div style="display: inline_block">
    <img src="https://skillicons.dev/icons?i=ts,js,react,electron,php,mysql,nodejs,vscode,git,docker&theme=dark" />
  </div>
 
- <h2>📊 GitHub Analytics</h2>
+ <div align="center">
+   <h2>
+     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/stats.svg" width="25px" height="25px">
+     GitHub Analytics
+   </h2>
+ </div>
+ 
  <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oghaika&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oghaika&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=8A2BE2"/>
@@ -22,13 +34,26 @@
 
  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=oghaika&theme=rogue&hide_border=true&bg_color=0d1117&line=8A2BE2&color=8A2BE2"/>
 
- <h2>🎵 Now Playing</h2>
-<div align="center">
-  <a href="https://open.spotify.com/user/SEU_USER_ID">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ffu5eo7wyfnxjiqixfycn4pl6q&count=5" alt="Spotify recently played"  />
-  </a>
+ <div align="center">
+   <h2>
+     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/spotifyplaying.svg" width="25px" height="25px">
+     Now Playing
+   </h2>
+ </div>
 
- <h2>🌐 Socials</h2>
+ <div align="center">
+   <a href="https://open.spotify.com/user/SEU_USER_ID">
+     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ffu5eo7wyfnxjiqixfycn4pl6q&count=5" alt="Spotify recently played"  />
+   </a>
+ </div>
+
+ <div align="center">
+   <h2>
+     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/socialmedias.svg" width="25px" height="25px">
+     Socials
+   </h2>
+ </div>
+
  <div align="center" style="margin: 20px 0">
    <a href="https://instagram.com/haikazx" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117">
@@ -41,7 +66,13 @@
    </a>
  </div>
 
- <h2>⚙️ Development Metrics</h2>
+ <div align="center">
+   <h2>
+     <img src="https://gist.githubusercontent.com/arunprakashpj/48aa20057048b46c6f9ba9d114a8b76f/raw/69a9d496f651091a509ea8d9913c4aef5c419afb/developer.svg" width="25px" height="25px">
+     Development Metrics
+   </h2>
+ </div>
+
  <div align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=oghaika&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6"/>
  </div>
