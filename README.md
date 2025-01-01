@@ -81,7 +81,7 @@
    <img src="https://komarev.com/ghpvc/?username=oghaika&color=8A2BE2&style=for-the-badge&label=Profile+Views"/>
  </div>
 
- <img src="https://github.com/oghaika/oghaika/blob/output/github-contribution-grid-snake-dark.svg" />
+ <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
  
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=120&section=footer"/>
 </div> 
