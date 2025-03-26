@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8A2BE2&height=160&section=header&text=Haika&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20CyberSecurity%20Enthusiast&descSize=20&descAlignY=55"/>
   
  <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1319846479330017312/1319877997880283186/fabc72205916b86e25e832d8bda529a5.jpg?ex=67678fac&is=67663e2c&hm=337958e02b33f89662f99c128a7f1ec88922c22db41935332e8ff2b19152053a&" width="200" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 20px #8A2BE2" />
+   <img src="https://cdn.discordapp.com/attachments/1317680196706631680/1354469465223463054/4ac0113ba7b967bf02b31bdff3b410bd.jpg?ex=67e5677d&is=67e415fd&hm=a8ce4e61f6d430b36ffbca9c827afc01667a84a457e54782ec831a48ef9e7478&" width="200" style="border-radius: 50%; border: 3px solid #8A2BE2; box-shadow: 0 0 20px #8A2BE2" />
  </p>
 
  <div align="center">
