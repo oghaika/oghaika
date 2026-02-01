@@ -1,211 +1,300 @@
 <div align="center">
 
-# 👋 Olá, eu sou Haika
-
-### Full Stack Developer | Apaixonado por Código Limpo e Soluções Inovadoras
-
-[![GitHub followers](https://img.shields.io/github/followers/haika?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=667eea)](https://github.com/haika)
-[![Profile Views](https://komarev.com/ghpvc/?username=haika&style=for-the-badge&color=667eea&labelColor=0d1117)](https://github.com/haika)
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Haika&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Full%20Stack%20Developer&descAlignY=55&descSize=25" width="100%"/>
 
 </div>
 
+<!-- Typing SVG Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Desenvolvedor+Full+Stack;Especialista+em+JavaScript+%7C+TypeScript;React+%7C+Node.js+%7C+PHP;Construindo+o+futuro%2C+uma+linha+por+vez" alt="Typing SVG" />
+</p>
+
 ---
 
-## 🚀 Sobre Mim
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Desenvolvedor Full Stack com paixão por criar experiências web incríveis e aplicações escaláveis. Sempre em busca de novos desafios e oportunidades para aprender e crescer.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Sobre Mim
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```javascript
 const haika = {
-    nome: "Haika",
+    localização: "Brasil",
     role: "Full Stack Developer",
-    localização: "Brasil 🇧🇷",
-    código: ["JavaScript", "TypeScript", "PHP", "HTML", "CSS"],
-    frameworks: ["React", "Node.js", "Express"],
-    templateEngines: ["EJS"],
-    atualmenteFocado: "Construindo aplicações web modernas e escaláveis",
-    hobbies: ["Programação", "Aprender novas tecnologias", "Open Source"],
-    
-    dizOi: function() {
-        console.log("Obrigado por visitar meu perfil! Vamos construir algo incrível juntos!");
-    }
+    código: {
+        frontend: ["JavaScript", "TypeScript", "React", "HTML", "CSS"],
+        backend: ["Node.js", "PHP", "Express"],
+        templateEngines: ["EJS"],
+        databases: ["MongoDB", "MySQL", "PostgreSQL"]
+    },
+    arquitetura: ["REST APIs", "Microservices", "SPA"],
+    atualFoco: "Construindo aplicações web escaláveis",
+    desafioAtual: "Aprimorando habilidades em arquitetura de software",
+    funFact: "Debugar é como ser um detetive em um filme onde você também é o assassino"
 };
-
-haika.dizOi();
 ```
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Linguagens
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black)
-
-### Ferramentas & Plataformas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 📊 Estatísticas do GitHub
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
-<div align="center">
-  
-![Haika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,php,html,css,git,github,vscode,npm,mongodb,mysql,postgres,docker&perline=8&theme=dark" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> Linguagens
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=haika&theme=tokyonight&hide_border=true&background=0d1117&ring=667eea&fire=f5576c&currStreakLabel=667eea)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117" />
+</p>
 
-</div>
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Frameworks & Libraries
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black&labelColor=0D1117" />
+</p>
 
-## 🏆 Conquistas
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="30"> Ferramentas
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117" />
+</p>
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=haika&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
----
-
-## 💼 Projetos em Destaque
-
-<div align="center">
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=haika&repo=projeto-incrivel&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9)](https://github.com/haika/projeto-incrivel)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=haika&repo=outro-projeto&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9)](https://github.com/haika/outro-projeto)
-
-</div>
-
----
-
-## 📈 Atividade de Desenvolvimento
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haika&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=f5576c&point=c9d1d9)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 💡 Filosofia de Código
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Estatísticas do GitHub
 
-> "Código limpo não é escrito seguindo regras. Você não se torna um artesão de software ao aprender uma lista de heurísticas. Profissionalismo e artesanato vêm de valores que direcionam disciplinas."
-> 
-> — Robert C. Martin
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haika&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F5576C&text_color=C9D1D9&border_radius=10" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=haika&theme=radical&hide_border=true&background=0D1117&ring=667EEA&fire=F5576C&currStreakLabel=667EEA&border_radius=10" />
+</p>
 
-### Meus Princípios:
-- ✨ **Código Limpo**: Escrever código que seja fácil de ler e manter
-- 🎯 **Foco na Qualidade**: Sempre buscar a excelência técnica
-- 🚀 **Aprendizado Contínuo**: Nunca parar de aprender e evoluir
-- 🤝 **Colaboração**: Trabalhar em equipe e compartilhar conhecimento
-- 💪 **Resiliência**: Transformar desafios em oportunidades
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haika&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&border_radius=10&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=haika&theme=react-dark&hide_border=true&bg_color=0D1117&color=667EEA&line=F5576C&point=C9D1D9&area=true&custom_title=Gráfico%20de%20Contribuições&radius=10" />
+</p>
 
----
-
-## 📫 Vamos Conectar?
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haika)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haika)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/haika)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haika@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://haika.dev)
-
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🎯 Objetivos 2026
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Conquistas
 
-- [ ] Contribuir para mais projetos Open Source
-- [ ] Aprender novas tecnologias e frameworks
-- [ ] Criar conteúdo técnico e tutoriais
-- [ ] Mentorar desenvolvedores iniciantes
-- [ ] Construir projetos que impactem positivamente a comunidade
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haika&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## 🎨 Snippet de Código Favorito
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/haika/projeto-1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=haika&repo=projeto-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F5576C&text_color=C9D1D9&border_radius=10" />
+  </a>
+  <a href="https://github.com/haika/projeto-2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=haika&repo=projeto-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&icon_color=F5576C&text_color=C9D1D9&border_radius=10" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="35"> Filosofia de Código
+
+<table align="center">
+<tr>
+<td width="50%">
 
 ```typescript
-// Sempre busque a simplicidade e elegância no código
-const createMagic = async (idea: string): Promise<Reality> => {
-    const passion = await gatherMotivation();
-    const code = await writeCleanCode(idea);
-    const tests = await ensureQuality(code);
-    
-    return deploy({
-        passion,
-        code,
-        tests,
-        love: Infinity
-    });
-};
+// Clean Code Principles
+interface Developer {
+  name: string;
+  mindset: string[];
+  code(): void;
+}
 
-// A mágica acontece quando você ama o que faz ✨
-createMagic("Próximo grande projeto");
+const haika: Developer = {
+  name: "Haika",
+  mindset: [
+    "Código limpo é código legível",
+    "Testes não são opcionais",
+    "Refatoração é parte do processo",
+    "Documentação é amor ao próximo",
+    "Simplicidade é sofisticação"
+  ],
+  code() {
+    while (true) {
+      this.learn();
+      this.build();
+      this.share();
+    }
+  }
+};
 ```
 
+</td>
+<td width="50%">
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+
+**Princípios que sigo:**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+<img src="https://img.shields.io/badge/Clean_Code-667EEA?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/DRY_Principle-F5576C?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/SOLID-4FACFE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/TDD-00F2FE?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Agile-F093FB?style=for-the-badge&labelColor=0D1117" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ---
 
-## 📚 Atualmente Estudando
+## <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="35"> Objetivos 2026
 
-- 🔥 Arquitetura de Microsserviços
-- ⚡ Performance e Otimização Web
-- 🎨 Design Patterns Avançados
-- 🔐 Segurança em Aplicações Web
-- 🤖 Inteligência Artificial e Machine Learning
+<table align="center">
+<tr>
+<td>
+
+```diff
++ Contribuir para projetos Open Source
++ Dominar arquitetura de microsserviços
++ Criar conteúdo técnico de qualidade
++ Mentorar desenvolvedores iniciantes
++ Construir produtos que impactem vidas
++ Aprender novas tecnologias e frameworks
+```
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=haika&theme=radical&hide_border=true&bg_color=0D1117&title_color=667EEA&text_color=C9D1D9&border_radius=10&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
-## ⚡ Fun Facts
+## <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"> Atualmente Estudando
 
-- 💻 Escrevo código desde que me lembro
-- ☕ Café é meu combustível favorito
-- 🌙 Desenvolvedor noturno por natureza
-- 🎮 Gamer nas horas vagas
-- 🎵 Programo melhor ouvindo música
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-667EEA?style=for-the-badge&logo=microgenetics&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="35"> Vamos Conectar
+
+<p align="center">
+  <a href="https://github.com/haika">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://linkedin.com/in/haika">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://twitter.com/haika">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="mailto:haika@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" />
+  </a>
+  <a href="https://haika.dev">
+    <img src="https://img.shields.io/badge/Portfolio-667EEA?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Snippet Favorito
+
+```typescript
+// A arte de transformar café em código
+class Developer {
+    private coffee: number = 0;
+    private code: string[] = [];
+    
+    async work(): Promise<void> {
+        while (this.coffee > 0) {
+            const idea = await this.think();
+            const implementation = await this.code(idea);
+            await this.test(implementation);
+            await this.deploy(implementation);
+            this.coffee--;
+        }
+        await this.refillCoffee();
+        this.work(); // Recursão infinita = vida de dev
+    }
+    
+    private async think(): Promise<string> {
+        return "Próxima feature incrível";
+    }
+}
+
+const haika = new Developer();
+haika.work(); // Let's code!
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haika/haika/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haika/haika/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haika/haika/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
 <div align="center">
 
-### 💭 Pensamento do Dia
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Obrigado pela visita!
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=haika&style=for-the-badge&color=667EEA&labelColor=0D1117" />
 
----
+**Desenvolvido com** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="20" /> **e muito café** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" width="20" />
 
-### 🐍 Contribuições
-
-![Snake animation](https://raw.githubusercontent.com/haika/haika/output/github-contribution-grid-snake-dark.svg)
-
----
-
-**⭐ De [Haika](https://github.com/haika)**
-
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 
 </div>
