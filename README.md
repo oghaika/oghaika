@@ -165,40 +165,6 @@ const haika = {
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
----
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="35"> Snippet Favorito
-
-```typescript
-// A arte de transformar café em código
-class Developer {
-    private coffee: number = 0;
-    private code: string[] = [];
-    
-    async work(): Promise<void> {
-        while (this.coffee > 0) {
-            const idea = await this.think();
-            const implementation = await this.code(idea);
-            await this.test(implementation);
-            await this.deploy(implementation);
-            this.coffee--;
-        }
-        await this.refillCoffee();
-        this.work(); // Recursão infinita = vida de dev
-    }
-    
-    private async think(): Promise<string> {
-        return "Próxima feature incrível";
-    }
-}
-
-const haika = new Developer();
-haika.work(); // Let's code!
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ---
 
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="35"> Contribuições
